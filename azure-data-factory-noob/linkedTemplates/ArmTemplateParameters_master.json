@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "azure-data-factory-noob"
+		},
+		"sourcelinkedservice_accountKey": {
+			"value": ""
+		},
+		"targetlinkedservice_password": {
+			"value": ""
+		},
+		"sourcelinkedservice_properties_typeProperties_url": {
+			"value": "https://storageacc26.dfs.core.windows.net/"
+		},
+		"targetlinkedservice_properties_typeProperties_database": {
+			"value": "PRACTICE"
+		},
+		"targetlinkedservice_properties_typeProperties_role": {
+			"value": "ACCOUNTADMIN"
+		},
+		"targetlinkedservice_properties_typeProperties_host": {
+			"value": "hfqjfqw-bl64933.snowflakecomputing.com"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
