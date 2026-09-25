@@ -6,7 +6,7 @@
 		"type": "SnowflakeV2",
 		"typeProperties": {
 			"authenticationType": "Basic",
-			"accountIdentifier": "HEMANTHB-BL64933",
+			"accountIdentifier": "HFQJFQW-BL64933",
 			"user": "HEMANTHB",
 			"database": "PRACTICE",
 			"warehouse": "COMPUTE_WH",
