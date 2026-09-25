@@ -62,7 +62,7 @@
 				"type": "SnowflakeV2",
 				"typeProperties": {
 					"authenticationType": "Basic",
-					"accountIdentifier": "HEMANTHB-BL64933",
+					"accountIdentifier": "HFQJFQW-BL64933",
 					"user": "HEMANTHB",
 					"database": "[parameters('targetlinkedservice_properties_typeProperties_database')]",
 					"warehouse": "COMPUTE_WH",
