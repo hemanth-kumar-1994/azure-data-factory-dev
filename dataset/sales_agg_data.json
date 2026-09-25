@@ -1,6 +1,10 @@
 {
 	"name": "sales_agg_data",
 	"properties": {
+		"linkedServiceName": {
+			"referenceName": "targetlinkedservice",
+			"type": "LinkedServiceReference"
+		},
 		"annotations": [],
 		"type": "SnowflakeV2Table",
 		"schema": [
